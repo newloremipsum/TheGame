@@ -1,3 +1,3 @@
 import string
 
-print 'Hello, World!'.upper()
+print 'qt'.upper()
