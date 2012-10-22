@@ -1,1 +1,3 @@
-print "hello world"
+import string
+
+print 'Hello, World!'.upper()
